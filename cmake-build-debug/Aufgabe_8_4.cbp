@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/main.cpp">
+		<Unit filename="/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/Aufgabe_8_4.cpp">
 			<Option target="Aufgabe_8_4"/>
 		</Unit>
 		<Unit filename="/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/CMakeLists.txt">

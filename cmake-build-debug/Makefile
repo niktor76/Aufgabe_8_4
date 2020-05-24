@@ -123,32 +123,32 @@ Aufgabe_8_4/fast:
 	$(MAKE) -f CMakeFiles/Aufgabe_8_4.dir/build.make CMakeFiles/Aufgabe_8_4.dir/build
 .PHONY : Aufgabe_8_4/fast
 
-main.o: main.cpp.o
+Aufgabe_8_4.o: Aufgabe_8_4.cpp.o
 
-.PHONY : main.o
+.PHONY : Aufgabe_8_4.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Aufgabe_8_4.dir/build.make CMakeFiles/Aufgabe_8_4.dir/main.cpp.o
-.PHONY : main.cpp.o
+Aufgabe_8_4.cpp.o:
+	$(MAKE) -f CMakeFiles/Aufgabe_8_4.dir/build.make CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o
+.PHONY : Aufgabe_8_4.cpp.o
 
-main.i: main.cpp.i
+Aufgabe_8_4.i: Aufgabe_8_4.cpp.i
 
-.PHONY : main.i
+.PHONY : Aufgabe_8_4.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Aufgabe_8_4.dir/build.make CMakeFiles/Aufgabe_8_4.dir/main.cpp.i
-.PHONY : main.cpp.i
+Aufgabe_8_4.cpp.i:
+	$(MAKE) -f CMakeFiles/Aufgabe_8_4.dir/build.make CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.i
+.PHONY : Aufgabe_8_4.cpp.i
 
-main.s: main.cpp.s
+Aufgabe_8_4.s: Aufgabe_8_4.cpp.s
 
-.PHONY : main.s
+.PHONY : Aufgabe_8_4.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Aufgabe_8_4.dir/build.make CMakeFiles/Aufgabe_8_4.dir/main.cpp.s
-.PHONY : main.cpp.s
+Aufgabe_8_4.cpp.s:
+	$(MAKE) -f CMakeFiles/Aufgabe_8_4.dir/build.make CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.s
+.PHONY : Aufgabe_8_4.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Aufgabe_8_4"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Aufgabe_8_4.o"
+	@echo "... Aufgabe_8_4.i"
+	@echo "... Aufgabe_8_4.s"
 .PHONY : help
 
 

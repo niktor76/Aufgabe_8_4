@@ -57,27 +57,27 @@ include CMakeFiles/Aufgabe_8_4.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Aufgabe_8_4.dir/flags.make
 
-CMakeFiles/Aufgabe_8_4.dir/main.cpp.o: CMakeFiles/Aufgabe_8_4.dir/flags.make
-CMakeFiles/Aufgabe_8_4.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Aufgabe_8_4.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aufgabe_8_4.dir/main.cpp.o -c /home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/main.cpp
+CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o: CMakeFiles/Aufgabe_8_4.dir/flags.make
+CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o: ../Aufgabe_8_4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o -c /home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/Aufgabe_8_4.cpp
 
-CMakeFiles/Aufgabe_8_4.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aufgabe_8_4.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/main.cpp > CMakeFiles/Aufgabe_8_4.dir/main.cpp.i
+CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/Aufgabe_8_4.cpp > CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.i
 
-CMakeFiles/Aufgabe_8_4.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aufgabe_8_4.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/main.cpp -o CMakeFiles/Aufgabe_8_4.dir/main.cpp.s
+CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/Aufgabe_8_4.cpp -o CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.s
 
 # Object files for target Aufgabe_8_4
 Aufgabe_8_4_OBJECTS = \
-"CMakeFiles/Aufgabe_8_4.dir/main.cpp.o"
+"CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o"
 
 # External object files for target Aufgabe_8_4
 Aufgabe_8_4_EXTERNAL_OBJECTS =
 
-Aufgabe_8_4: CMakeFiles/Aufgabe_8_4.dir/main.cpp.o
+Aufgabe_8_4: CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o
 Aufgabe_8_4: CMakeFiles/Aufgabe_8_4.dir/build.make
 Aufgabe_8_4: CMakeFiles/Aufgabe_8_4.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Aufgabe_8_4"

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Aufgabe_8_4.dir/main.cpp.o  -o Aufgabe_8_4 
+/usr/bin/c++  -g   CMakeFiles/Aufgabe_8_4.dir/Aufgabe_8_4.cpp.o  -o Aufgabe_8_4 

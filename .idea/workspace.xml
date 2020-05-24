@@ -1,8 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Aufgabe_8_4" targetName="Aufgabe_8_4" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59ae3f4c-377b-42f7-ac6a-2833f07c7b96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe_8_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe_8_4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Aufgabe_8_4.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Aufgabe_8_4.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cN5ASYbZO7Ga8EiiDIqLY0uAkC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Aufgabe_8_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aufgabe_8_4" TARGET_NAME="Aufgabe_8_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aufgabe_8_4" RUN_TARGET_NAME="Aufgabe_8_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59ae3f4c-377b-42f7-ac6a-2833f07c7b96" name="Default Changelist" comment="" />
+      <created>1590356066901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590356066901</updated>
+      <workItem from="1590356068410" duration="3542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1864" height="291" key="GridCell.Tab.0.bottom" timestamp="1590359537048">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1864" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1590359537048" />
+    <state width="1864" height="291" key="GridCell.Tab.0.center" timestamp="1590359537047">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1864" height="291" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1590359537047" />
+    <state width="1864" height="291" key="GridCell.Tab.0.left" timestamp="1590359537047">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1864" height="291" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1590359537047" />
+    <state width="1864" height="291" key="GridCell.Tab.0.right" timestamp="1590359537048">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1864" height="291" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1590359537048" />
+    <state x="337" y="77" key="SettingsEditor" timestamp="1590358347524">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="337" y="77" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1590358347524" />
+    <state x="669" y="279" width="582" height="492" key="refactoring.ChangeSignatureDialog" timestamp="1590357492757">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="669" y="279" width="582" height="492" key="refactoring.ChangeSignatureDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1590357492757" />
+    <state x="539" y="8" width="840" height="1034" key="search.everywhere.popup" timestamp="1590357342553">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="539" y="8" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1590357342553" />
   </component>
 </project>
