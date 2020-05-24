@@ -1,0 +1,3 @@
+/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/viktor-nbubar/CLionProjects/Schule/Cpp/Schulbuch/Aufgabe_8_4/cmake-build-debug/CMakeFiles/Aufgabe_8_4.dir
